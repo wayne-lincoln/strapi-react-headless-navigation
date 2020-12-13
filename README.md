@@ -11,6 +11,8 @@ This repo is related to a blog post found at [https://waynelincoln.dev/blog/mode
 3. `npm run develop`
 4. Create an admin account: [http://localhost:1337/admin](http://localhost:1337/admin)
 
+Before running the frontend, use the admin interface to create some dummy pages and then the main menu with menu items linking to the pages.
+
 ## To run the frontend (React)
 
 1. `cd frontend`
